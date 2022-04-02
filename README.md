@@ -1,4 +1,4 @@
-### Olá
+### Olá!
 Sou o João Fernando, cientista de dados e programador em constante aprendizado.
 
 Atualmente estudo <b>Tecnologias em Ciência de Dados na FATEC Ourinhos</b> (5º semestre).
