@@ -26,7 +26,7 @@ Atualmente estudo <b>Tecnologias em Ciência de Dados na FATEC Ourinhos</b> (5º
 
 ### Projetos
 <div>
-<a href="https://github.com/jaoferr/PJ3G2" target="_blank"> PJ3G2: GRACE - Sistema de recomendação de currículos </a>
+<a href="https://github.com/jaoferr/grace" target="_blank"> GRACE - Sistema de recomendação de currículos </a>
 
 <a href="https://github.com/jaoferr/PJ3G3" target="_blank"> PJ3G3: Machine Learning applied to Sports - Web scraping/Web Crawler/Search Engine </a>
 </div>
