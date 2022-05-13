@@ -22,6 +22,7 @@ Atualmente estudo <b>Tecnologias em Ciência de Dados na FATEC Ourinhos</b> (5º
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height='64' width='64'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height='64' width='64'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height='64' width='64'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" height='64' width='64'/>         
 </div>
 
 ### Projetos
